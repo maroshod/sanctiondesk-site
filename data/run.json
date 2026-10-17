@@ -1,0 +1,41 @@
+{
+ "started_at": "2026-10-17T01:27:35+00:00",
+ "finished_at": "2026-10-17T01:28:14+00:00",
+ "mode": "fast",
+ "stages": [
+  {
+   "name": "official_journal",
+   "ok": true,
+   "error": null
+  },
+  {
+   "name": "ojexport",
+   "ok": true,
+   "error": null
+  },
+  {
+   "name": "calendar",
+   "ok": true,
+   "error": null
+  },
+  {
+   "name": "vessel_history",
+   "ok": true,
+   "error": null
+  },
+  {
+   "name": "alerts",
+   "ok": true,
+   "error": null
+  }
+ ],
+ "new_acts": [],
+ "new_corrigenda": [],
+ "feed_warning": null,
+ "alerts": {
+  "created": 0,
+  "delivered": 0,
+  "failed": 0,
+  "overdue": 0
+ }
+}
